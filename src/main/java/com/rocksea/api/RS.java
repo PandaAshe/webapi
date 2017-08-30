@@ -11,6 +11,8 @@ public class RS
 {
     private static final String HOST_NAME ="http://whrocksea.vicp.cc:8886";
 
+
+
     public static final String TICKET = HOST_NAME+"/api/Ticket";
 
     public static final String CHANNEL_DATA = HOST_NAME+"/api/DcChannelData";
